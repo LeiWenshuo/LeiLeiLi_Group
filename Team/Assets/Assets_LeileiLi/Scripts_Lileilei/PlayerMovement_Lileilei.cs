@@ -81,7 +81,8 @@ public class PlayerMovement_Lileilei : MonoBehaviour
      * */
     public void Movement()
     {
-        if (Input.GetKeyDown(KeyCode.Enter))
+             // if (Input.GetKeyDown(KeyCode.Return))
+         if (Input.GetKeyDown(KeyCode.Return)||Input.GetKeyDown(KeyCode.Space))
         {
             count++;
             if (count == 1)
