@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MenuForAll/Scenes/Menu1.unity
+    guid: a8225409200143a4e8d203404f3b9d37
+  - enabled: 1
+    path: Assets/MenuForAll/Scenes/Menu2.unity
+    guid: 993927bb5f5f0d4478d7eb4724abb653
+  - enabled: 1
+    path: Assets/Assets_LeileiLi/Scenes_Lileilei/Scene_Lieilei.unity
+    guid: a68988c2d73ab404f8f10342c4f46ce6
+  - enabled: 1
+    path: Assets/jiacheng_Liang/Scenes_liang/instructions.unity
+    guid: 1e50a5b2f1365bc42b44762fffc06e61
+  - enabled: 1
+    path: Assets/jiacheng_Liang/Scenes_liang/liang.unity
+    guid: 0b8eff5a3e30ec943948448375bbc3d6
+  - enabled: 1
+    path: Assets/jiacheng_Liang/Scenes_liang/lianghomepage.unity
+    guid: 3b9188e4e2d7e074abf3b94bb4c0f45f
+  - enabled: 1
+    path: Assets/Mingyang Lv/Scenes/Help.unity
+    guid: 2c1f022f5b9217344aaafb6c36ba49cb
+  - enabled: 1
+    path: Assets/Mingyang Lv/Scenes/Lost.unity
+    guid: 301ebd8c7f55b424ea9e01cab80213e0
+  - enabled: 1
+    path: Assets/Mingyang Lv/Scenes/PlayScene001.unity
+    guid: a655c29bfe5fea0478a180188a794e41
+  - enabled: 1
+    path: Assets/Mingyang Lv/Scenes/StartPage.unity
+    guid: 4a9952fbb1348054487e56425547d271
+  - enabled: 1
+    path: Assets/Mingyang Lv/Scenes/WinPage.unity
+    guid: bc6375f0ddfd6ea40add32bf9f0b145f
+  - enabled: 1
+    path: Assets/ShujunL/ShujunL.unity
+    guid: 6865bc747e3f72247b711845fa016d42
+  - enabled: 1
+    path: Assets/Wenshuo_Lei/Scenes/HelpScene_Lei.unity
+    guid: 4972fae70171a724fb21a9205d4b3c80
+  - enabled: 1
+    path: Assets/Wenshuo_Lei/Scenes/MainScene_Lei.unity
+    guid: 3942f59edb1a0e64abb9e368038947af
+  - enabled: 1
+    path: Assets/Wenshuo_Lei/Scenes/WinnerScene_Lei.unity
+    guid: bc0ebc5572932514082565ff3523c48a
+  m_configObjects: {}
