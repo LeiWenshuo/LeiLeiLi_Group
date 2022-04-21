@@ -1,7 +1,6 @@
 Menu Scene：
 button1-Jiacheng Liang
-button2-Wenshuo Lei
-button3-Leilei Li
+button2-WenshuoLei
 button4-Shujun Liu
 Menu2 Scene:
 button4-Mingyang Lv
